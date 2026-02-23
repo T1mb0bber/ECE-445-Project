@@ -15,3 +15,8 @@ We started talking about what the overall shape that Matthew proposed initially.
 Objectives: Begin work on project proposal
 What was done:
 We began talking about what was required of the project proposals. Three key things were decided in this meeting. We would opt for a esp32 microcontroller for its ease in implementing in hardware and bulit in wireless support on one of the carrier boards. I found a set of motors that I've worked with before that worked quite well. With those two important pieces decided, we can move forward in creating a comprehensive parts list and plan out the hardware sections of our project.
+
+# 2/22/2025
+Objectives: Plan more on design of robot and finalize details
+What was done:
+We decided to organize and prepare for the upcoming demos by making the tough decisions. This involves what type of weapon to use and what not. This is an incredibly important decision because this effects the PCB design that I am responsible for. 
