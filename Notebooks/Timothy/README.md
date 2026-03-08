@@ -25,3 +25,8 @@ We decided to organize and prepare for the upcoming demos by making the tough de
 Objectives: Finalizing PCB details and work
 what was done:
 With all the parts and subsystems finalized we can start the process of ordering the PCB. I am in charge of it and I am planning to finish up layout details before checking DRS. As long as the design review goes well tomorrow morning we should be good to go to order. The regulators and sensors have been checked in order to ensure that they'll be the correct parts to get. Maybe consider ordering parts seperately since going through TA has been a bit tedious. Also I have access to a esp32 to work on the breadboard demo before next week. 
+
+# 3/8/2026
+Objectives: Design Review Feedback
+What was done:
+Professor Gruev told us to add more numerical metrics for what we want to prove in our project. We're incorporating that in a revised design document to show for the breadboard demo coming up. Ved has been working on the firmware for the breadbord demo tha is occuring next Monday of the week. So far we have wifi communication and some sort of gui to control gpios wirelessly from a external device.
