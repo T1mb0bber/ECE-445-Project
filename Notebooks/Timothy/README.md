@@ -30,3 +30,8 @@ With all the parts and subsystems finalized we can start the process of ordering
 Objectives: Design Review Feedback
 What was done:
 Professor Gruev told us to add more numerical metrics for what we want to prove in our project. We're incorporating that in a revised design document to show for the breadboard demo coming up. Ved has been working on the firmware for the breadbord demo tha is occuring next Monday of the week. So far we have wifi communication and some sort of gui to control gpios wirelessly from a external device.
+
+# 3/15/2026
+Objectives: Finalized pcb design details for upcoming order
+What was done:
+Coordinate with team on next steps to work on after breadboard demo. 
