@@ -35,3 +35,8 @@ Professor Gruev told us to add more numerical metrics for what we want to prove 
 Objectives: Finalized pcb design details for upcoming order
 What was done:
 Coordinate with team on next steps to work on after breadboard demo. 
+
+# 3/20/2026
+Objectives: Fixing up PCB design to order 
+What was done:
+Telling Ved about whats features he wants on the sensor with regards to the IMU sensor as I can include interrupt pins if he desires. Double checked that my circuit designs make sense and I wouldn't be blowing up components. 
