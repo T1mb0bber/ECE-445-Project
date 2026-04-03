@@ -45,3 +45,13 @@ Telling Ved about whats features he wants on the sensor with regards to the IMU 
 Objectives: Double check all details of pcb design
 what was done:
 Checked that the motors rated stall current and the expected current draw from the motor drivers was gonna be okay. I had to add pin headers so we can attach wires to the motors Matthew found and we're gonna have to solder the wire ends onto the motors themselves. I set the logic voltage supplied to the motor drivers ICs to be less than 5v so that the current limit is set to be less than 2 A which would be the stall current of the motors chosen. This way the motors health can be preserved and they can run for a longer amount of time. I want to derate the current being sent to the motor drivers and we can also monitor this behavior by sending the CS pin to the MCU. ESP32 WROOM 32E module has three pwm motor control and up to 16 for LED control. Can use the LED PWM controller as our motor driver ICs have a set dead time whereas the PWM motor controller allows you to configure that. Since we're using a certain mode that only needs one pwm signal we can use all three motor pwms for our bot.
+
+# 3/24/2026
+Objectives: Finish Schematic
+What was done:
+Most of the connections are finished and footprints are found for layout. I had to spend sometime trying to understand how to hook up stuff for the ADC on the esp32 and other connections in general for the microcontroller.
+
+# 4/1/2026
+Objectives: Ordered extra parts just in case
+What was done:
+PCB being worked on by JLCPCB we're sort of in a waiting period in terms of the project. I pray this board works decently well and I can move on from this class. I put in a ton of time to get this to work so fingers crossed. Currently working on the individual progress report which is dued this week.
