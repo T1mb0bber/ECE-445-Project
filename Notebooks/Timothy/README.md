@@ -55,3 +55,8 @@ Most of the connections are finished and footprints are found for layout. I had 
 Objectives: Ordered extra parts just in case
 What was done:
 PCB being worked on by JLCPCB we're sort of in a waiting period in terms of the project. I pray this board works decently well and I can move on from this class. I put in a ton of time to get this to work so fingers crossed. Currently working on the individual progress report which is dued this week.
+
+# 4/5/2026
+Objectives: Helped Ved solder stuff
+What was done:
+I came to the lab room to give some guidance on soldering some components as well as to bring other components to help. 
