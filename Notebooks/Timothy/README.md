@@ -60,3 +60,14 @@ PCB being worked on by JLCPCB we're sort of in a waiting period in terms of the 
 Objectives: Helped Ved solder stuff
 What was done:
 I came to the lab room to give some guidance on soldering some components as well as to bring other components to help. 
+
+# 4/12/2026
+Objectvies: Order more parts for next iteration of PCB
+What was done:
+We met to establish a pcb timeline and to figure out what are the next steps. (I forgot to submit this in the last week)
+
+# 4/18/2026
+Objectives: waiting on the parts 
+what was done:
+The whole group is awaiting parts that have arrived for the most part and I've readied most of them on soldering the pcb. Particularly the sm parts are a bit trickier to solder but I am going to ensure that I'll be there to guide them on how to solder some of these components. 
+
