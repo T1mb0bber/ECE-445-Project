@@ -71,3 +71,8 @@ Objectives: waiting on the parts
 what was done:
 The whole group is awaiting parts that have arrived for the most part and I've readied most of them on soldering the pcb. Particularly the sm parts are a bit trickier to solder but I am going to ensure that I'll be there to guide them on how to solder some of these components. 
 
+# 4/25/2026
+
+Objectives: Finished soldering and debugged the pcb board
+What was done:
+Throughout the week we met to solder components and I explained the design to the rest of the group. There was a severe miscommunication in how the group was functioning with the lack of in person meetings earlier in the semester. I had to break down to the team the very basics of PCB design as none of them had any at all. We discovered that the pcb was missing tracings due to the way I configured the PCB in Kicad which I will delve into in the final report. Overall, we have a full microcontroller functionality and are working on getting the motors to work from the pcb. We will leave the IMU for last if we have time and hopefully be ready to prepare for the mock demo and presentation to Zhuoer. 
