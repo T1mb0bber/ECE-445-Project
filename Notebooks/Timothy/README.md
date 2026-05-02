@@ -16,6 +16,10 @@ Objectives: Begin work on project proposal
 What was done:
 We began talking about what was required of the project proposals. Three key things were decided in this meeting. We would opt for a esp32 microcontroller for its ease in implementing in hardware and bulit in wireless support on one of the carrier boards. I found a set of motors that I've worked with before that worked quite well. With those two important pieces decided, we can move forward in creating a comprehensive parts list and plan out the hardware sections of our project.
 
+# 2/11/2026 to 2/16/2026
+
+No work was done this week as part of weekly update.
+
 # 2/22/2025
 Objectives: Plan more on design of robot and finalize details
 What was done:
@@ -76,3 +80,9 @@ The whole group is awaiting parts that have arrived for the most part and I've r
 Objectives: Finished soldering and debugged the pcb board
 What was done:
 Throughout the week we met to solder components and I explained the design to the rest of the group. There was a severe miscommunication in how the group was functioning with the lack of in person meetings earlier in the semester. I had to break down to the team the very basics of PCB design as none of them had any at all. We discovered that the pcb was missing tracings due to the way I configured the PCB in Kicad which I will delve into in the final report. Overall, we have a full microcontroller functionality and are working on getting the motors to work from the pcb. We will leave the IMU for last if we have time and hopefully be ready to prepare for the mock demo and presentation to Zhuoer. 
+
+# 5/01/2026
+
+Objectives: Final Presentation and Final demo
+What waws done:
+We prepared and completed final demo/presentation. It ended up being that the PCB was just blown through all the copies so a breadboard version was made to account for this. The microcontroller was blown into smoke as a result of an accident within the group. I think this was a blessing in disguise as we ended up getting more points than our original demo. There was a lot of tinkering with a motor driver (shows the inexperience of the group) and there was some significant struggle regarding how to use it. Got a much higher grade than originally planned and Ved seems to want to prep the bot for the battlebot so we shall see what happens then.
