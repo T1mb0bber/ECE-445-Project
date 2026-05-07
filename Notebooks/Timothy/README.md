@@ -84,5 +84,10 @@ Throughout the week we met to solder components and I explained the design to th
 # 5/01/2026
 
 Objectives: Final Presentation and Final demo
-What waws done:
+What was done:
 We prepared and completed final demo/presentation. It ended up being that the PCB was just blown through all the copies so a breadboard version was made to account for this. The microcontroller was blown into smoke as a result of an accident within the group. I think this was a blessing in disguise as we ended up getting more points than our original demo. There was a lot of tinkering with a motor driver (shows the inexperience of the group) and there was some significant struggle regarding how to use it. Got a much higher grade than originally planned and Ved seems to want to prep the bot for the battlebot so we shall see what happens then.
+
+# 5/07/2026
+Objectives: Working on the final report
+What was done: 
+Worked on the final report and submitted on time.
